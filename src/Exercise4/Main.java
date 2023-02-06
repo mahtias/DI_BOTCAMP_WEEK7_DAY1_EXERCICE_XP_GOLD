@@ -1,5 +1,10 @@
 package Exercise4;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Main {
     public static void main(String[] args) {
         Deck deck = new Deck();
