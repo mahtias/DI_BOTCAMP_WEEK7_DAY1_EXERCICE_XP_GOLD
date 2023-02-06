@@ -3,6 +3,10 @@ package Exercise4;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/*
+*@author Konate-MK
+*/
 public class Deck {
     // Kinds of suits
     public final static int DIAMONDS = 1;
