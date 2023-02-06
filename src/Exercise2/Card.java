@@ -1,5 +1,10 @@
 package Exercise2;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Card {
     private int value;
 
