@@ -1,5 +1,10 @@
 package Exercise3;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class SinglePlayingCard {
     private int rank;
     private int suit;
