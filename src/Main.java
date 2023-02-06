@@ -8,6 +8,10 @@ import static Exercise3.Deck.CLUBS;
 import static Exercise3.Deck.FIVE;
 
 
+/*
+*@author Konate-MK
+*/
+
 public class Main {
     //Exercice1
     public static void main(String[] args) {
