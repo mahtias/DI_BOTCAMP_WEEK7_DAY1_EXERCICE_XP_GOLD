@@ -1,5 +1,10 @@
 package Exercise3;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Deck {
     // Kinds of suits
     public final static int DIAMONDS = 1;
