@@ -1,9 +1,7 @@
 package Exercise4;
 
 
-/*
-*@author Konate-MK
-*/
+
 public class Card {
     private int rank;
     private int suit;

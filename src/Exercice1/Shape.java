@@ -1,9 +1,7 @@
 package Exercice1;
 
 
-/*
-*@author Konate-MK
-*/
+
 
 public class Shape {
     protected int largeur;

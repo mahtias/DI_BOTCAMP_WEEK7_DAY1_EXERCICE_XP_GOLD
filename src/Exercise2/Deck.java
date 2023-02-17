@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 
-/*
-*@author Konate-MK
-*/
+
 
 public class Deck {
     public List<Card> cards = new ArrayList<Card>();

@@ -1,9 +1,6 @@
 package Exercice1;
 
 
-/*
-*@author Konate-MK
-*/
 
 public class Rectangle extends Shape{
 
